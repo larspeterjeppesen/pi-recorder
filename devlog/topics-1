@@ -1,0 +1,12 @@
+week1: yocto fundamentals on raspberry pi
+week2: yocto fundamentals on raspberry pi
+week3: rust cross-compilation for embedded linux
+week4: gstreamer and ffmpeg (media pipelines)
+week5: embedded systems networking
+week6: yocto deep dive (meta-layers, customization)
+week7: esp32 development in rust
+week8: filesystems bootloaders and system debugging
+week9: ipc and system architecture
+week10: cloud and ota integration simulation
+week11: cicd with github actions
+week12: capstone project
